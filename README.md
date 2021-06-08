@@ -3,7 +3,7 @@ A deep learning framework for brain tumor segmentation
 We use the BraTS 2020 dataset to verify the performance of our proposed few-shot learning architecture. Our method only utilizes two adjacent images, instead of the target image, as the input data of deep neural network to predict the brain tumor area in the target image. Avoiding noise interference in the target image, this method makes full use of the spatial context feature between adjacent slices in order to obtain accurate zero-shot segmentation results.
 The flowchart of our architecture can be seen as follows:
 
-images/1.png
+images/1.jpg
 
 The flowchart of our novel method. (a) This is the first architecture that does not use target images for medical image segmentation as far as we know. (b) It is extremely robust to the noise in the target image. (c) Our method has lower hardware requirements, and it is easy to train.
 
