@@ -7,18 +7,28 @@ images/1.png
 
 ## Prerequisites
 The following packages are required for executing the main code file:
+
 *NumPy http://www.numpy.org/
+
 *Pandas https://pandas.pydata.org/
+
 *Scikit-learn http://scikit-learn.org/stable/install.html
+
 *tensorflow https://tensorflow.google.cn/
+
 *SimpleITK https://simpleitk.org/
+
 *Nibabel https://pypi.org/project/nibabel/
+
 *h5py https://pypi.org/project/h5py/
   
 ## Datasets
 We train the network using the training data of BraTS 2020, BraTS 2019 and BraTS 2018.  
+
 *BraTS 2020 https://www.med.upenn.edu/cbica/brats2020/data.html
+
 *BraTS 2019 https://www.med.upenn.edu/cbica/brats2019/data.html
+
 *BraTS 2018 https://www.med.upenn.edu/cbica/brats2018/data.html
 
 ## Run
