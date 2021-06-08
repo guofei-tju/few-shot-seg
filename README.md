@@ -33,5 +33,12 @@ BraTS 2019 https://www.med.upenn.edu/cbica/brats2019/data.html
 
 BraTS 2018 https://www.med.upenn.edu/cbica/brats2018/data.html
 
-## Run
-The program running on the dataset (BraTS) while printing logs:
+## Prediction
+We integrate data preprocessing, model and training in a python file.
+
+After downloading the data, the file can be used to predict brain tumors.
+
+To make predictions, run 1.0.py.
+
+## Testing
+Once you get the predictions, upload them in the CBICA portal to get the performance metrics.
